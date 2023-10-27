@@ -13,4 +13,3 @@ The goal is to start thinking about:
    + Do we want to be preview of what the neuralink tertiary layer i doing on all times? 
    + Should the controls be in a binary tree of level of control? 
 
-Very intresting indeed. The future is being build as we speak.
